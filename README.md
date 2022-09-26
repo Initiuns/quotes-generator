@@ -1,0 +1,1 @@
+# Quotes Generator with random colors
